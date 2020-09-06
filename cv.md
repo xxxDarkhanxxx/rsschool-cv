@@ -1,7 +1,7 @@
 1.  Darkhan Akhmetov
 2.  Email: darkhanahmetov2005@gmail.com, darkhanahmetov228@gmail.com
 3.  I want to be Full-stack developer, I mad about programming and I am want to study and learn everything, like Node.js React Vue and etc
-4.  Html(Pug) CSS, SCSS, Sass, Stylus, Gulp, JS, Bootstrap, PHP
+4.  Html(Pug) CSS, SCSS, Sass, Stylus, Gulp, JS, Bootstrap, PHP, learning react
 5.  const forms = document.querySelector('form');
     const messages = {
     loading: 'Загрузка',
