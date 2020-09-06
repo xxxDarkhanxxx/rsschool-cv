@@ -33,3 +33,7 @@
 
     });
     };
+
+6.  Some Hakatons, many projects, Innopolis Open and other olympiads
+7.  Glo Academy, Udemy, School
+8.  I am learning English for 5 years, and I have Intermediate level, but I am trying to improve it
